@@ -12,7 +12,7 @@
 .header .nav li.active a{color: #10ac5f;}
 .header .nav li:hover a{color: #10ac5f;}
 
-.footer{height: 345px;background: #334e64;}
+.footer{height: 325px;background: #334e64;}
 .footer .flogo{width: 60px;height: 70px;vertical-align: top;margin-right: 100px;padding-top: 30px;}
 .footer .footerBox{vertical-align: top;padding-top: 30px;}
 .footer .footerHref{}
