@@ -12,9 +12,9 @@
 .header .nav li.active a{color: #10ac5f;}
 .header .nav li:hover a{color: #10ac5f;}
 
-.footer{height: 145px;background: #334e64;}
-.footer .flogo{width: 60px;height: 70px;vertical-align: top;margin-right: 100px;padding-top: 40px;}
-.footer .footerBox{vertical-align: top;padding-top: 40px;}
+.footer{height: 345px;background: #334e64;}
+.footer .flogo{width: 60px;height: 70px;vertical-align: top;margin-right: 100px;padding-top: 30px;}
+.footer .footerBox{vertical-align: top;padding-top: 30px;}
 .footer .footerHref{}
 .footer .footerHref dd{color: #fff;font-size: 16px;margin:0 10px;line-height: 40px;}
 .footer .footerHref dd a{color: #fff;}
@@ -137,3 +137,14 @@
 .fb-seamlessScrolling .fb-seamlessScrolling-item{border:1px solid #4fa866}
 .photo_bg{ width: 100%; background: #d3d6d2; height: 320px;  }
 .photoShow{ width: 1200px; margin: 0 auto; }
+.link-1{ width: 500px;  height:20px;text-align: center; padding-left: 200px; }
+.link-1 li{ float: left; width: 90px; text-align: center;}
+.link-1 li:nth-of-type(2){ width: 120px; }
+
+#link{ width: 1100px; overflow: hidden; padding-top: 20px;margin-top: 15px; margin: 0 auto;color: #ffffff;font-size: 15px; }
+#link a{color: #ffffff; float: left; margin-right: 10px;}
+#link-21{ width: 150px; }
+.link-2{width: 240px; margin-top:15px; float: left; margin-right: 30px  }
+.link-2 li{ width: 240px; margin-left: 50px; height: 20px; margin-bottom: 5px;}
+.link-2 li:nth-of-type(1){ width: 170px;}
+.link-23{ width: 15px;height: 100px; float: left; text-align: center; margin-left: 70px; margin-right: 0px;margin-top: 15px;}
