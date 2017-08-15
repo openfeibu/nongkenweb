@@ -24,7 +24,7 @@
 .title{padding: 25px 0;}
 .title p{font-size: 26px;color: #333333;}
 .title span{font-size: 16px;color: #999999;}
-.c-title{padding: 10px 0 10px 40px;border-bottom: 1px solid #10ac5f;}
+.c-title{padding: 10px 0 10px 40px;border-bottom: 1px solid #3c824e;}
 .c-title p{font-size: 18px;color: #333333;}
 /*.c-title span{font-size: 16px;color: #999999;}*/
 /*首页*/
@@ -56,12 +56,12 @@
 .news-a .news-a-con .test .test-con{font-size: 16px;color: #999999;line-height: 25px;height: 75px;overflow: hidden;}
 .news-a .news-a-button{text-align: center;}
 .news-a .news-a-button .news-a-button-item{width:16px;height: 16px;background: #dddddd;margin:0 4px;cursor: pointer;}
-.news-a .news-a-button .news-a-button-item.active{background: #10ac5f;}
+.news-a .news-a-button .news-a-button-item.active{background: #3c824e;}
 
 .news-b{width: 580px;height: 410px;background: #fafafa;}
 .news-b .news-b-tab{padding: 40px 40px 0 40px;text-align: center;}
 .news-b .news-b-tab .news-tab-item{width: 124px;height: 32px;font-size: 16px;color: #999999;line-height: 32px;cursor: pointer;position: relative;}
-.news-b .news-b-tab .news-tab-item.active{background: #10ac5f;color: #fff;}
+.news-b .news-b-tab .news-tab-item.active{background: #3c824e;color: #fff;}
 .news-b .news-b-tab .news-tab-item.active:after{content: "";position: absolute;width: 16px;height: 8px;background: url("../images/tag.png") no-repeat center;bottom:-8px;left:50%;margin-left: -8px;}
 .news-b .news-b-con{padding: 0 40px 0 40px}
 .news-b .news-b-item{display: none;}
@@ -75,7 +75,7 @@
 .news-b .news-b-list a{color: #555555;display: block;}
 .news-b .news-b-list li:hover a{color: #999999;}
 .news-b .news-b-con .more{text-align: right;}
-.news-b .news-b-con .more a{color: #10ac5f;font-size: 16px;}
+.news-b .news-b-con .more a{color: #3c824e;font-size: 16px;}
 .news-b .news-b-con .more a:hover{text-decoration: underline;}
 
 /*about*/
@@ -135,13 +135,13 @@
         -o-transition:box-shadow 0.5s;
         -o-transition-timing-function:ease;x}
 .interval{ width: 100%;height: 25px; background: #3c824e;  }
-.fb-seamlessScrolling .fb-seamlessScrolling-item{border:1px solid #4fa866;}
+.fb-seamlessScrolling .fb-seamlessScrolling-item{}
 .photo_bg{ width: 100%; background: #d3d6d2; height: 250px;  }
 .photoShow{ width: 1200px; margin: 0 auto; }
 #link li{  width: 200px; text-align: center; float: left;}
 
 #link{ width: 1200px; overflow: hidden; margin-top: 15px; margin: 0 auto;color: #FFF; font-size: 15px;text-align: center;}
 #link a{color: #FFF; margin:0 auto;}
-#link a:hover{color: #10ac5f}
+#link a:hover{color: #3c824e}
 .link-2{margin:30px 200px;}
 .link-2 li{ width: 240px; margin-left: 50px; height: 20px; margin-bottom: 5px;float: left;}
