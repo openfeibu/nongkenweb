@@ -20,7 +20,7 @@
 }
 .news-banner {
 	width: 100%;
-	height: 200px;
+	height: 300px;
 	background: url('../images/about-banner.png') no-repeat center;
 }
 .news {
@@ -97,10 +97,10 @@
 	color: #999999;
 }
 .strategy li a:hover {
-	color: #3c824e;
+	color: #10ac5f;
 }
 .strategy li .strategy-act {
-	color: #3c824e;
+	color: #10ac5f;
 }
 .strategy-detail >li >h1{
  font-size: 32px;
@@ -166,7 +166,7 @@
 
 }
 .color-10ac5f {
-	color: #3c824e;
+	color: #10ac5f;
 }
 .news-item,
 .news-items2-item {
@@ -259,10 +259,10 @@
 	margin-top: 60px;
 }
 .page-ul li a:hover{
-	background: #3c824e;    color: #fff;
+	background: #10ac5f;    color: #fff;
 }
 .page-act {
-	background: #3c824e;    color: #fff!important;
+	background: #10ac5f;    color: #fff!important;
 }
 .aboutToptxt {
 	text-align: center;
