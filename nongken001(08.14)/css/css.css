@@ -88,6 +88,17 @@
 .aboutUs-item{margin-bottom: 30px;width: 500px;}
 .aboutUs-item img{width: 480px;height: 173px;}
 
+/* policy */
+.policy{ height: 240px; padding-bottom: 20px;}
+.policy-a{width: 560px;float: left;overflow: hidden;}
+.policy-b{width: 600px;background: #FAFAFA;  float: right;overflow: hidden;}
+.policy-b-list { padding: 20px 20px; font-size: 16px;}
+.policy-b-list li{ width: 580px; line-height: 24px;float: left; margin: 10px 0;}
+.policy-b-list a:hover{ color: #999999;}
+.policy-b .news-b-con .more{text-align: right;width: 580px;padding-bottom: 20px;}
+.policy-b .news-b-con .more a{color: #10ac5f;font-size: 16px;}
+.policy-b .news-b-con .more a:hover{text-decoration: underline;}
+
 /*宣传大图*/
 .fb-seamlessScrolling{margin:0 0 60px 0;}
 
