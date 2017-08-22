@@ -169,20 +169,20 @@
         -o-transition-timing-function:ease;x}
 .interval{ width: 100%;height: 25px; background: #3c824e;  }
 .fb-seamlessScrolling .fb-seamlessScrolling-item{}
-.photo_bg{ width: 100%; background: #d3d6d2; height: 230px;  }
+.photo_bg{ width: 100%; background: #d3d6d2; height: 320px;  }
 .photoShow{ width: 1300px; margin: 0 auto; }
 .fb-size{width: 1300px !important;}
 
 /*尾部小图*/
 .pic{ width: 1200px; margin: 0 auto;font-size: 16px; }
-.pic div {float: left;margin: 20px auto;}
+.pic div {float: left;margin: 40px 50px; width: 200px;}
 .pic p {width: 100%; text-align: center; height: 40px; line-height: 40px;}
 .pic a{color: #333   }
 .pic a:hover{color: #10ac5f}
-.pic img{ width: 270px; height: 160px; margin: 0 15px; }
+.pic img{ width:200px; height: 200px;}
 
-.footInfo{ width: 900px; float: left;color: #FFF;font-size: 16px;overflow: hidden; padding-top: 25px;}
-.footInfo dd{ width: 900px; line-height: 40px;text-align: left;}
+.footInfo{ width: 800px; float: left;color: #FFF;font-size: 16px;overflow: hidden; padding-top: 25px;}
+.footInfo dd{ width: 800px; line-height: 40px;text-align: left;}
 .footLink{width: 300px; }
 .footLink_boder{border-bottom: 1px #DDD solid }
 .footLink a{color: #FFF }
@@ -191,3 +191,4 @@
 .footLink dd{ width: 200px;line-height: 40px;  }
 .footLink dd>span{ margin:0 10px; }
 .footLink .footLink_height{height: 200px;}
+.footLeft{ margin-left: 100px; }
